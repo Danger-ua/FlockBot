@@ -1,0 +1,7 @@
+simplecrypto
+urlparser
+requests
+flask
+pyyaml
+atlassian-python-api
+Flask-Migrate
